@@ -75,11 +75,13 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/mohammadshakirsaifi/React-Form-App.git
 
 2. ** Navigate to the project folder:**
-
+```bash
    cd React-Form-App
 
 3. ** Install dependencies:**
+```bash
    npm install
 
 4. ** Start the development server:**
+```bash
    npm start
